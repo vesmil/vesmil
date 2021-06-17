@@ -1,9 +1,12 @@
 Hi, my name is **Milan Veselý**.
 
-I'm currently studying Computer scinece at Charles University in Prague. :books:
+I'm currently studying Computer science at Charles University in Prague. :books:
 
-*Hopefully I will add more info later*
+&nbsp;
+
+BTW most of my reps are private right now… sorry \
+But you can still look at my notes from MFF or a Gomoku perfunctorily written in Python (even though that one is entirely in Czech)
 
 ___
 
-BTW most of my reps are now private… sorry
+*Hopefully, I will add more info later*
