@@ -4,7 +4,7 @@ I'm currently studying Computer science at Charles University in Prague. :books:
 
 &nbsp;
 
-BTW most of my repos are private right now… sorry \
+BTW most of my repos are private right now… sorry
 
 ___
 
